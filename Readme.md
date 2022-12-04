@@ -1,5 +1,5 @@
 
-# Sample Project GRPC - Gateway
+# Sample Project Golang Echo
 
 This project contains 2 main file. The first one is core api which have api for get and store data. The second one is worker logic which have responsible to hit api store data with random value every x second.
 
